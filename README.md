@@ -1,5 +1,5 @@
 == README
-Initializing an without using scaffolding just to
+Initializing a rails app without using scaffolding just to
 see the layout of a sample rails app.
 Interesting notes so far include:
 *rails command 
